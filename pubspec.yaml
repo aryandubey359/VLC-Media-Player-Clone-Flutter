@@ -1,0 +1,44 @@
+name: video_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_orientation: ^2.2.1
+  firebase_core: ^1.16.0
+  firebase_database: ^9.0.13
+
+  cupertino_icons: ^1.0.2
+
+  # play videos
+  video_player: ^2.4.0
+
+  # pick video from file system
+  file_picker: ^4.5.1
+
+  # prevent screen from sleeping
+  wakelock: ^0.6.1+2
+
+  # switch orientation
+#  auto_orientation: ^2.2.1
+
+  # listen to orientation
+  native_device_orientation: ^1.0.0
+  firebase_auth: ^3.3.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/VESIT.mp4
+    - assets/VLC-Logo-2001.png
+    - assets/Watchtower of Turkey.mp4

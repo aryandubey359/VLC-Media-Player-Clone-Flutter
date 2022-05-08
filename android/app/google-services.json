@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910433367084",
+    "project_id": "vlc-flutter",
+    "storage_bucket": "vlc-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910433367084:android:aaeb5f4abce99046890d89",
+        "android_client_info": {
+          "package_name": "com.example.video_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910433367084-l32nh8oahavdbehpnken3sud7an4kp0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_n3Ts_ozavgry0v5YmYMRqsPqM3HDAks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910433367084-l32nh8oahavdbehpnken3sud7an4kp0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
